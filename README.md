@@ -5,6 +5,7 @@
 `BMI = weight (kg) / (height (m) ^ 2)`
 
 | BMI            | Weight Status     |
+|----------------|-------------------|
 | Below 18.5     | UnderWeight       |
 | 18.5-24.9      | Healthy           |
 | 25.0-29.9      | Overweight        |
